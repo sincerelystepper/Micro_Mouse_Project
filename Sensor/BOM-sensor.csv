@@ -1,0 +1,15 @@
+Comment,Designator,Footprint,LCSC
+100,"R1,R4,R8",R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical,C105588
+0.1uF,"C4,C6",C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal,C14663
+0.1uF,C2,C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal,C1525
+47uF,"C1,C3,C5",C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal,C16780
+47k,"R2,R5,R9",R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical,C17713
+51,"R11,R3,R6",R_Axial_DIN0414_L11.9mm_D4.5mm_P5.08mm_Vertical,C17724
+6.8k,"R13,R14,R15",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C23212
+2N7000,"Q1,Q3,Q5",TO92-,C232838
+SFH_313_FA,"Q2,Q4,Q6",XDCR_SFH_313_FA,C2900211
+TP,"TP1,TP3,TP5",TestPoint_Bridge_Pitch2.0mm_Drill0.7mm,C2906762
+1.8k,"R10,R12,R7",R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical,C4177
+J_Open,"JP1,JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,TP2,TP4,TP6",SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,C5305
+TSAL6200,"D1,D2,D3",LEDRD254W55D595H900,C55528
+Conn_02x14_Odd_Even,J1,PinHeader_2x14_P2.54mm_Vertical,
