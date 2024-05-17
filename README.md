@@ -15,9 +15,9 @@ The motherboard serves as the baseboard that all other modules will slot onto. I
 The processor board includes the STM32L476 microcontroller. It provides 78 output pins for use, with most connections already dictated by required interconnections.
 
 # 3. Sensor Module
-Responsibility: Detecting and sensing objects.
-Requirements:
-• Detect whether there is an obstacle in front of the robot and on the sides too.
+Responsibility: Detecting and sensing objects.  
+Requirements:  
+• Detect whether there is an obstacle in front of the robot and on the sides too.  
 • Have switching means to save power when not in operation.
 • Design for reliability such that system can be proven to work.
 • Consider how much power and current the sensing board is drawing such that battery is not drained before the maze is solved.
