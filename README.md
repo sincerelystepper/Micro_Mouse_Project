@@ -1,20 +1,20 @@
 # Micro_Mouse_Project
 This is the micromouse project that aims to solve a maze. It consists of four modules: a processor (stm32l), a power module, a sensor module. These all interface to aid a functional micromouse. Hence this repo exhibits the interconnection between these modules. This project involves building the power adn sensing sub-modules the simplified micro-mouse.
 
-Project Overview
+# Project Overview
 The project entails designing and manufacturing two key modules: the Sensor Module and the Power Module. Each module plays a crucial role in the functionality of the micro-mouse:
 
 Sensor Module: Responsible for detecting and sensing objects within the maze.
 Power Module: Responsible for powering the entire system, including running the motors and charging a battery.
 
-Modules Overview
-1. Motherboard
+# Modules Overview
+# 1. Motherboard
 The motherboard serves as the baseboard that all other modules will slot onto. It's responsible for connecting all the PCBs together.
 
-2. Processor
+# 2. Processor
 The processor board includes the STM32L476 microcontroller. It provides 78 output pins for use, with most connections already dictated by required interconnections.
 
-3. Sensor Module
+# 3. Sensor Module
 Responsibility: Detecting and sensing objects.
 Requirements:
 • Detect whether there is an obstacle in front of the robot and on the sides too.
@@ -29,7 +29,7 @@ LEDs will be on
 •Appropriate size for the robot.
 Design and Manufacturing: The task here involves designing and manufacturing this module to meet the specified requirements.
 
-4. Power Module
+# 4. Power Module
 Responsibility: Powering the entire system, including running motors and charging a battery.
 Requirements:
 • Operate 2 motors with the pins available. As well as to control
@@ -43,10 +43,10 @@ current.
 •Appropriate size for the robot.
 Design and Manufacturing: The task here is to design and manufacture this module to meet the specified requirements.
 
-License
+# License
 This project is licensed under the MIT License, which permits both commercial and non-commercial use.
 
-Contributors
+# Contributors
 Kopano Maketekete:GitHub Profile-->sincerelystepper
 Chukwudi Iloanya: GitHub Profile--> ChukwudiIloanya
 
